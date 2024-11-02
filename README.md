@@ -2,7 +2,7 @@
 This repository contains the code and datasets for analyzing wine reviews using Natural Language Processing (NLP) techniques. The project aims to explore and classify wine reviews by leveraging data preprocessing, exploratory analysis, sentiment analysis, and machine learning models.
 
 
-#Problem Statement
+Problem Statement
 ---
 Major Wine Producers: Identify the major wine-producing countries and determine which types of wine receive the highest ratings in these countries.
 
@@ -10,7 +10,7 @@ Best Rated Wines by Price: Explore the best-rated wines across different price c
 
 Common Descriptions: Analyze the most common descriptions for the highest-rated wines produced in different countries.
 
-#Technologies Used
+Technologies Used
 ---
 Python: Programming language used for developing the code. 
 
@@ -20,11 +20,11 @@ Scikit-learn: For building and evaluating machine learning models.
 
 NLTK: For natural language processing tasks.
 
-#Dataset
+Dataset
 ---
 The dataset used for this project can be found on Kaggle: Winemag Data 130k - Kaggle
 
-#Project Structure
+Project Structure
 ---
 The code folder contains the following two scripts:
 
