@@ -1,4 +1,4 @@
-# Wine-Review-Analysis-
+# Wine-Review-Analysis
 This repository contains the code and datasets for analyzing wine reviews using Natural Language Processing (NLP) techniques. The project aims to explore and classify wine reviews by leveraging data preprocessing, exploratory analysis, sentiment analysis, and machine learning models.
 
 
